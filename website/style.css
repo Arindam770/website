@@ -1,0 +1,46 @@
+.body{
+    background-image: url("/img/web.jpg");
+    background-repeat: no-repeat;
+    
+    height: auto;
+    
+    
+}
+.h1{
+    color: rgb(17, 158, 92);
+   
+}
+.des{
+    color: rgb(4, 249, 226, 0.88);
+    text-align: center;
+    margin: 80px -5px;
+    border: 10px #fbfbfb00 solid;
+    padding: 34px 20px;
+}
+.navbar{
+   background-color: red;
+}.navbar li{
+    overflow: hidden;
+    float: left;
+    margin: 33px,20px;
+    
+
+}
+.navbar li a{
+    text-decoration: none;
+    color: #f3f3f3;
+    margin: 33px;
+    padding: 10px 10px;
+}
+a:hover{
+    background-color: chocolate;
+}
+a:visited{
+    color: coral;
+}
+a :hover{
+    background-color: coral;
+}
+a{
+ text-decoration-color: rgb(4, 249, 226, 0.88) ;
+}
